@@ -1,0 +1,13 @@
+{
+    "name": "data-loader",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+      "csv-parser": "2.2.0",
+      "elasticsearch": "15.4.1",
+      "xml-stream": "0.4.5"
+    },
+    "license": "ISC"
+  }
+  
